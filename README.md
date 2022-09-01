@@ -41,9 +41,7 @@ These notebooks were used to:
 
   - __Load__ the data frames to the tables into the RDS instance. 
 
-  The content of the ZEPL notebooks was copied into these [Jupyter Notebooks](./Notebooks/).
-
-
+ 
 ### Level 2 
 
 * SQL queries to analyze the data can be found [here](./Scripts/stats.sql) and 
